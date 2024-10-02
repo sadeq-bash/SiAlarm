@@ -1,0 +1,266 @@
+Added Component: Designator=C?(0402)
+Add component (AddParameter): Name = "JLC"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "CL05A105KA5NQNC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0603)
+Add component (AddParameter): Name = "JLC"; Value = "C19702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=J?(TER4-R-3.81)
+Add component (AddParameter): Name = "JLC"; Value = "C395698"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "DB2ERC-3.81-4P-GN"; VariantName = "[No Variations]"
+Added Component: Designator=J?(TER4-R-3.81)
+Add component (AddParameter): Name = "JLC"; Value = "C395698"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "DB2ERC-3.81-4P-GN"; VariantName = "[No Variations]"
+Added Component: Designator=J?(UFL)
+Added Component: Designator=LED?(LED0603Y)
+Add component (AddParameter): Name = "JLC"; Value = "C965808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "XL-1608UWC-04"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED0603Y)
+Add component (AddParameter): Name = "JLC"; Value = "C965808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "XL-1608UWC-04"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED0603Y)
+Add component (AddParameter): Name = "JLC"; Value = "C965808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "XL-1608UWC-04"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED0603Y)
+Add component (AddParameter): Name = "JLC"; Value = "C965808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "XL-1608UWC-04"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED0603Y)
+Add component (AddParameter): Name = "JLC"; Value = "C965808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "XL-1608UWC-04"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED0603Y)
+Add component (AddParameter): Name = "JLC"; Value = "C965808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "XL-1608UWC-04"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED0603Y)
+Add component (AddParameter): Name = "JLC"; Value = "C965808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "XL-1608UWC-04"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED0603Y)
+Add component (AddParameter): Name = "JLC"; Value = "C965808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "XL-1608UWC-04"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Model Name
+Added Component: Designator=R?(0603ARRAY)
+Add component (AddParameter): Name = "JLC"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603ARRAY)
+Add component (AddParameter): Name = "JLC"; Value = "C12001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "4D03WGJ0222T5E"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603ARRAY)
+Add component (AddParameter): Name = "JLC"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603)
+Add component (AddParameter): Name = "JLC"; Value = "C21189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "0603WAF0000T5E"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "JLC"; Value = "C60490"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0603ARRAY)
+Add component (AddParameter): Name = "JLC"; Value = "C12001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "4D03WGJ0222T5E"; VariantName = "[No Variations]"
+Added Component: Designator=S?(SW-SMD_L6.0-W3.3-LS8.0)
+Add component (AddParameter): Name = "JLC"; Value = "C318938"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "TS-1101-C-W"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL)
+Add component (AddParameter): Name = "JLC"; Value = "C7605"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "PCF8574T/3,518"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOP-16_L10.3-W4.4-P1.27-LS7.0-BL)
+Add component (AddParameter): Name = "JLC"; Value = "C150957"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "ELQ3H4(TA)-G"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOP-16_L10.3-W4.4-P1.27-LS7.0-BL)
+Add component (AddParameter): Name = "JLC"; Value = "C150957"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "ELQ3H4(TA)-G"; VariantName = "[No Variations]"
+Added Component: Designator=U?(WIRELM-SMD_ESP32-S3-WROOM-1U)
+Add component (AddParameter): Name = "JLC"; Value = "C3013946"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "ESP32-S3-WROOM-1U-N16R8"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found GSM-SMD_42P-L17.6-W15.7-P1.10-TL
+Added Component: Designator=U?(WLP-9_L1.4-W1.3-P0.40-R3-C3-BR)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20210106/C2682619_15CCD654F2C559A2FC5FDCA8EA0D4E6D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "MAX98357AEWL+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "MAX98357AEWL+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ADI(???)/MAXIM(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "MAX98357AEWL+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speaker Channels"; Value = "???"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "BGA-9(1.3x1.3)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2682619"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage"; Value = "2.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MAX98357AEWL+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type of Power Amplifier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(WIRELM-SMD_ESP32-S3-WROOM-1U)
+Add component (AddParameter): Name = "JLC"; Value = "C3013946"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFAC"; Value = "ESP32-S3-WROOM-1U-N16R8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=R?-2
+Added Pin To Net: NetName=+3.3V Pin=R?-5
+Added Pin To Net: NetName=+3.3V Pin=R?-5
+Added Pin To Net: NetName=+3.3V Pin=R?-6
+Added Pin To Net: NetName=+3.3V Pin=R?-6
+Added Pin To Net: NetName=+3.3V Pin=R?-7
+Added Pin To Net: NetName=+3.3V Pin=R?-7
+Added Pin To Net: NetName=+3.3V Pin=R?-8
+Added Pin To Net: NetName=+3.3V Pin=R?-8
+Added Pin To Net: NetName=+3.3V Pin=U?-2
+Added Pin To Net: NetName=+3.3V Pin=U?-16
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=U?-A2
+Added Net: Name=+5V
+Added Pin To Net: NetName=/IOEXINT Pin=U?-13
+Added Net: Name=/IOEXINT
+Added Pin To Net: NetName=BCLK Pin=U?-C1
+Added Net: Name=BCLK
+Added Pin To Net: NetName=blu Pin=J?-1
+Added Net: Name=blu
+Added Pin To Net: NetName=DIN Pin=U?-B1
+Added Net: Name=DIN
+Added Pin To Net: NetName=ESP32_ProInt Pin=C?-1
+Added Pin To Net: NetName=ESP32_ProInt Pin=R?-1
+Added Pin To Net: NetName=ESP32_ProInt Pin=S?-2
+Added Pin To Net: NetName=ESP32_ProInt Pin=U?-27
+Added Net: Name=ESP32_ProInt
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-40
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=U?-C2
+Added Net: Name=GND
+Added Pin To Net: NetName=LRCLK Pin=U?-C3
+Added Net: Name=LRCLK
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-3
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=LED?-K
+Added Net: Name=NetJ?_1
+Add Net: Net with name "NetJ?_1" already exists
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=LED?-K
+Added Net: Name=NetJ?_2
+Add Net: Net with name "NetJ?_2" already exists
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=LED?-K
+Added Net: Name=NetJ?_3
+Add Net: Net with name "NetJ?_3" already exists
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=LED?-K
+Added Net: Name=NetJ?_4
+Add Net: Net with name "NetJ?_4" already exists
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-7
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-5
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=NetR?_3 Pin=R?-3
+Added Pin To Net: NetName=NetR?_3 Pin=U?-3
+Added Net: Name=NetR?_3
+Add Net: Net with name "NetR?_3" already exists
+Added Pin To Net: NetName=NetR?_4 Pin=R?-4
+Added Pin To Net: NetName=NetR?_4 Pin=U?-1
+Added Net: Name=NetR?_4
+Add Net: Net with name "NetR?_4" already exists
+Added Pin To Net: NetName=RXD Pin=U?-2
+Added Net: Name=RXD
+Added Pin To Net: NetName=SCL Pin=U?-14
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=U?-15
+Added Net: Name=SDA
+Added Pin To Net: NetName=TXD Pin=U?-1
+Added Net: Name=TXD
+Added Pin To Net: NetName=VBAT Pin=R?-5
+Added Pin To Net: NetName=VBAT Pin=R?-5
+Added Pin To Net: NetName=VBAT Pin=R?-6
+Added Pin To Net: NetName=VBAT Pin=R?-6
+Added Pin To Net: NetName=VBAT Pin=R?-7
+Added Pin To Net: NetName=VBAT Pin=R?-7
+Added Pin To Net: NetName=VBAT Pin=R?-8
+Added Pin To Net: NetName=VBAT Pin=R?-8
+Added Net: Name=VBAT
+Added Pin To Net: NetName=Z0 Pin=LED?-A
+Added Pin To Net: NetName=Z0 Pin=U?-2
+Added Net: Name=Z0
+Added Pin To Net: NetName=Z1 Pin=LED?-A
+Added Pin To Net: NetName=Z1 Pin=U?-4
+Added Net: Name=Z1
+Added Pin To Net: NetName=Z2 Pin=LED?-A
+Added Pin To Net: NetName=Z2 Pin=U?-6
+Added Net: Name=Z2
+Added Pin To Net: NetName=Z3 Pin=LED?-A
+Added Pin To Net: NetName=Z3 Pin=U?-8
+Added Net: Name=Z3
+Added Pin To Net: NetName=Z4 Pin=LED?-A
+Added Pin To Net: NetName=Z4 Pin=U?-2
+Added Net: Name=Z4
+Added Pin To Net: NetName=Z5 Pin=LED?-A
+Added Pin To Net: NetName=Z5 Pin=U?-4
+Added Net: Name=Z5
+Added Pin To Net: NetName=Z6 Pin=LED?-A
+Added Pin To Net: NetName=Z6 Pin=U?-6
+Added Net: Name=Z6
+Added Pin To Net: NetName=Z7 Pin=LED?-A
+Added Pin To Net: NetName=Z7 Pin=U?-8
+Added Net: Name=Z7
+Added Pin To Net: NetName=Zi0 Pin=R?-4
+Added Pin To Net: NetName=Zi0 Pin=U?-4
+Added Pin To Net: NetName=Zi0 Pin=U?-16
+Added Net: Name=Zi0
+Added Pin To Net: NetName=Zi1 Pin=R?-3
+Added Pin To Net: NetName=Zi1 Pin=U?-5
+Added Pin To Net: NetName=Zi1 Pin=U?-14
+Added Net: Name=Zi1
+Added Pin To Net: NetName=Zi2 Pin=R?-2
+Added Pin To Net: NetName=Zi2 Pin=U?-6
+Added Pin To Net: NetName=Zi2 Pin=U?-12
+Added Net: Name=Zi2
+Added Pin To Net: NetName=Zi3 Pin=R?-1
+Added Pin To Net: NetName=Zi3 Pin=U?-7
+Added Pin To Net: NetName=Zi3 Pin=U?-10
+Added Net: Name=Zi3
+Added Pin To Net: NetName=Zi4 Pin=R?-4
+Added Pin To Net: NetName=Zi4 Pin=U?-9
+Added Pin To Net: NetName=Zi4 Pin=U?-16
+Added Net: Name=Zi4
+Added Pin To Net: NetName=Zi5 Pin=R?-3
+Added Pin To Net: NetName=Zi5 Pin=U?-10
+Added Pin To Net: NetName=Zi5 Pin=U?-14
+Added Net: Name=Zi5
+Added Pin To Net: NetName=Zi6 Pin=R?-2
+Added Pin To Net: NetName=Zi6 Pin=U?-11
+Added Pin To Net: NetName=Zi6 Pin=U?-12
+Added Net: Name=Zi6
+Added Pin To Net: NetName=Zi7 Pin=R?-1
+Added Pin To Net: NetName=Zi7 Pin=U?-10
+Added Pin To Net: NetName=Zi7 Pin=U?-12
+Added Net: Name=Zi7
+Added Class: Name=sch_audio
+Added Class: Name=sch_controller
+Added Class: Name=sch_io

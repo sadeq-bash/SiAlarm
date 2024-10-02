@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=ProjectNote1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ProjectNote1.SchDoc|FileName=sch_audio.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ProjectNote1.SchDoc|FileName=sch_controller.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ProjectNote1.SchDoc|FileName=sch_gsm.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ProjectNote1.SchDoc|FileName=sch_io.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ProjectNote1.SchDoc|FileName=sch_power.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ProjectNote1.SchDoc|FileName=SiAlarm_BlockDiagram.SchDoc|SheetNumber=7
